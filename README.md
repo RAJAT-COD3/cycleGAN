@@ -3,6 +3,12 @@
 
 This is the replication of style transfer technique mentioned in the original paper https://doi.org/10.48550/arXiv.1703.10593 of CycleGAN.
 
+## Dataset
+Link to the dataset used :- [Dataset(https://drive.google.com/drive/folders/1BB-rGE9DjjkbvXU619DOeAyrJbmaN-Nm?usp=sharing)
+
+## Model
+Link to the trained model :- [Model](https://drive.google.com/drive/folders/1WF_MFZyRdIRCt40sLoX-0fMsw_lFs5RQ?usp=sharing)
+
 ## Results
 
 ### Image after 6th epoch
