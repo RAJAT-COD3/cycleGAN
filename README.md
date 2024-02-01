@@ -9,10 +9,10 @@ This is the replication of style transfer technique mentioned in the original pa
 ![6th_epoch](https://github.com/RAJAT-COD3/cycleGAN/blob/main/results/6th_epoch.png)
 
 ### Image after 12th epoch
-![12th_epoch](https://github.com/RAJAT-COD3/cycleGAN/blob/main/results/12th_epoch.png)
+![12th_epoch](https://github.com/RAJAT-COD3/cycleGAN/blob/main/results/12th%20epoch.png)
 
 ### Imafe after 18th epoch
-![18th_epoch](https://github.com/RAJAT-COD3/cycleGAN/blob/main/results/18th_epoch.png)
+![18th_epoch](https://github.com/RAJAT-COD3/cycleGAN/blob/main/results/18th%20epoch.png)
 
 ## Presently engaged in the exploration and practical application of Variational Autoencoder.
 
